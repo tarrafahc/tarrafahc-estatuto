@@ -1,13 +1,14 @@
-# ESTATUTO SOCIAL DA ASSOCIAÇÂO DO ÔNIBUS HACKER
+# ESTATUTO SOCIAL DA ASSOCIAÇÂO DO TARRAFA HACKER CLUBE
 
 ## ARTIGO 1º – DENOMINAÇÃO, SEDE, FINALIDADE E DURAÇÃO
 
-A Associação do Ônibus Hacker, neste estatuto designada, simplesmente, como
-Associação Busão Hacker, fundada em data de 19 de Abril de 2013, com sede e
-foro nesta cidade, na
-Rua Dorival Carneiro, 71, Jardim São Paulo – CEP 18271015
+A Associação do Tarrafa Hacker Clube, neste estatuto designada, simplesmente,
+como Tarrafa,
+fundada em data de <dia> de <mês> de 2013,
+com sede e foro nesta cidade, na
+Rua João Pio Duarte Silva, 602, bloco C apartamento 301 - Córrego Grande – CEP 88037-000
 na cidade de
-Tatuí do Estado de São Paulo,
+Florianópolis do Estado de Santa Catarina,
 é uma associação de direito privado, constituída por tempo indeterminado,
 sem fins econômicos, de caráter organizacional, filantrópico, assistencial,
 promocional, recreativo e educacional, sem cunho partidário, com a finalidade
@@ -397,7 +398,7 @@ nacional.
 ## ARTIGO 30 – DAS OMISSÕES
 Os casos omissos no presente Estatuto serão resolvidos pela Assembléia Geral.
 
-Tatuí, 19 de Abril de 2013
+Florianópolis, <dia> de <mês> de 2013
 
 
 
@@ -411,6 +412,6 @@ ________________________________________
 
                             Advogado
 
-            Nome: Liane Gutmanis de Lira
+            Nome:
 
-            OAB: nº 310868/SP
+            OAB: nº xxxxxx/SC
