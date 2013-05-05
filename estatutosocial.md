@@ -173,10 +173,10 @@ e-mails do Tarrafa onde constará: local, dia, mês, ano, hora da primeira e
 segunda chamada, ordem do dia, e o nome de quem a convocou.
 
 Parágrafo Segundo –
-Considerar-se-a convocada a Assembleia Geral no momento em que 1/5 dos
-associados se manifestarem, em resposta à mensagem - doravante denominada
-'thread' - proposta por quem a convocou ciência da convocação e anuir ao
-debate acerca da matéria proposta para deliberação.
+Considerar-se-a convocada a Assembleia Geral no momento em que a quinta parte
+dos associados se manifestar, em resposta à mensagem proposta por quem a
+convocou, ciente da convocação e anuir ao debate acerca da matéria proposta
+para deliberação.
 
 Parágrafo Terceiro –
 Toda e qualquer deliberação do Tarrafa será tomada por escrutínio público,
