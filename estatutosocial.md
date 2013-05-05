@@ -23,7 +23,7 @@ Florianópolis do Estado de Santa Catarina.
 
 ## ARTIGO 2º – DAS PRERROGATIVAS
 
-No desenvolvimento de suas atividades, a Associação observará os princípios
+No desenvolvimento de suas atividades, o Tarrafa observará os princípios
 da legalidade, impessoalidade, moralidade, publicidade, transparência,
 economicidade, da eficiência e da instrumentalidade das formas, com as
 seguintes prerrogativas:
@@ -37,19 +37,19 @@ seguintes prerrogativas:
 3. Promover debates, encontros e atividades culturais para disseminar os
    valores do compartilhamento de conhecimento, recursos e tecnologias livres.
 4. Representar seus associados judicial ou extrajudicialmente, na defesa dos
-   princípios, prerrogativas e finalidades da associação.
+   princípios, prerrogativas e finalidades do Tarrafa.
 5. Celebrar atos formais de parceria, convênios, contratos, termos de ajuste
    e outros instrumentos legais com organismos e entidades nacionais,
    estrangeiras e internacionais, públicas e privadas;
 
 Parágrafo Único –
-Para cumprir suas finalidades sociais, a Associação se organizará em tantas
+Para cumprir suas finalidades sociais, o Tarrafa se organizará em tantas
 unidades quantas se fizerem necessárias, em todo o território nacional e se
 regerão pelas disposições contidas neste estatuto e, ainda, por um Regimento
 Interno aprovado pela Assembléia Geral.
 
 ## ARTIGO 3º – DOS COMPROMISSOS DO TARRAFA
-A Associação se dedicara às suas atividades através de seus administradores e
+o Tarrafa se dedicara às suas atividades através de seus administradores e
 associados, e adotará práticas de gestão administrativa, suficientes a coibir
 a obtenção, de forma individual ou coletiva, de benefícios ou vantagens,
 lícitas ou ilícitas, de qualquer forma, em decorrência da participação nos
@@ -58,8 +58,8 @@ território nacional, na consecução e no desenvolvimento de seus objetivos
 sociais
 
 ## ARTIGO 4º – DOS ASSOCIADOS
-Os associados serão os que ajudaram na fundação da Associação, os que
-trabalham cotidianamente para o desempenho das atividades da associação e que
+Os associados serão os que ajudaram na fundação do Tarrafa, os que
+trabalham cotidianamente para o desempenho das atividades do Tarrafa e que
 são relacionados no Anexo 1 deste Estatuto.
 
 ## ARTIGO 5º – DA ADMISSÃO DO ASSOCIADO
@@ -76,8 +76,8 @@ religiosa e, para seu ingresso, o interessado deverá participar da lista do
 
 1. Cumprir e fazer cumprir o presente estatuto;
 2. Respeitar e cumprir as decisões da Assembléia Geral;
-3. Zelar pelo bom nome da Associação;
-4. Defender o patrimônio e os interesses da Associação;
+3. Zelar pelo bom nome do Tarrafa;
+4. Defender o patrimônio e os interesses do Tarrafa;
 5. Cumprir e fazer cumprir o regimento interno;
 6. Exercer com dedicação, probidade, transparência e responsabilidade as
 funções para as quais forem indicados ou estiverem investidos.
@@ -94,7 +94,7 @@ São direitos dos associados quites com suas obrigações sociais:
 
 ## ARTIGO 8º – DA RETIRADA DO ASSOCIADO
 É direito do associado retirar-se do quadro social, quando julgar necessário,
-manifestando seu pedido junto à Lista de emails da Associação, desde que não
+manifestando seu pedido junto à Lista de emails do Tarrafa, desde que não
 esteja em débito com suas obrigações associativas.
 
 ## ARTIGO 9º – DA EXCLUSÃO DO ASSOCIADO
@@ -106,7 +106,7 @@ quando ficar comprovada a ocorrência de:
 1. Violação do estatuto social;
 2. Atividades contrárias às decisões das assembléias gerais;
 3. Conduta duvidosa, mediante a prática de atos incompatíveis com os preceitos
-   desta associação;
+   do Tarrafa;
 
 Parágrafo Primeiro –
 Definida a justa causa, o associado será devidamente notificado dos fatos a
@@ -140,15 +140,15 @@ As penas serão aplicadas pela Diretoria Executiva e poderão constituir-se em:
 3. Inclusão do email do associado em listas de spam;
 
 ## ARTIGO 11 – DOS ORGÃOS DA INSTITUIÇÃO
-São órgãos da Associação:
+São órgãos do Tarrafa:
 
 1. Assembléia
 2. Diretoria Executiva;
 3. Conselho Fiscal.
 
 ## ARTIGO 12 – DA ASSEMBLÉIA GERAL
-A Assembléia Geral Deliberativa é o órgão máximo, soberano e excelso da
-Associação, e será constituída pelos seus associados em pleno gozo de seus
+A Assembléia Geral Deliberativa é o órgão máximo, soberano e excelso do
+Tarrafa, e será constituída pelos seus associados em pleno gozo de seus
 direitos.
 
 Reunir-se-á no ínicio do ano em data deliberada através da lista de emails,
@@ -158,21 +158,21 @@ convocação com a maioria absoluta dos associados e, em segunda convocação,
 três horas após a primeira, com qualquer número, salvo nos casos previsto
 neste estatuto, tendo as seguintes prerrogativas.
 
-1. Fiscalizar os membros da Associação, na consecução de seus objetivos;
+1. Fiscalizar os membros do Tarrafa, na consecução de seus objetivos;
 2. Eleger e destituir os administradores;
 3. Deliberar sobre a previsão orçamentária e a prestação de contas;
-6. Deliberar quanto à compra e venda de bens da Associação;
+6. Deliberar quanto à compra e venda de bens do Tarrafa;
 5. Aprovar o regimento interno, que disciplinará os vários setores de
-   atividades da Associação;
+   atividades do Tarrafa;
 6. Alterar, no todo ou em parte, o presente estatuto social;
-7. Deliberar quanto à dissolução da Associação;
+7. Deliberar quanto à dissolução do Tarrafa;
 8. Decidir, em ultima instância, sobre todo e qualquer assunto de interesse
    social, bem como sobre os casos omissos no presente estatuto.
 
 Parágrafo Primeiro –
 As assembléias gerais poderão ser ordinárias ou extraordinárias, e serão
 convocadas, por qualquer Associado, mediante mensagem publicada na lista de
-emails da Associação onde constará: local, dia, mês, ano, hora da primeira e
+emails do Tarrafa onde constará: local, dia, mês, ano, hora da primeira e
 segunda chamada, ordem do dia, e o nome de quem a convocou;
 
 Parágrafo Segundo –
@@ -182,12 +182,12 @@ associados se manifestarem, em resposta à mensagem - doravante denominada
 debate acerca da matéria proposta para deliberação.
 
 Parágrafo Terceiro –
-Toda e qualquer deliberação da Associação será tomada por escrutínio público,
+Toda e qualquer deliberação do Tarrafa será tomada por escrutínio público,
 sendo vedada qualquer forma de deliberação por voto secreto, sob pena de
 infração ao princípio da transparência sobre o qual se funda esta organização.
 
 ## ARTIGO 13 – DA DIRETORIA EXECUTIVA
-A Diretoria Executiva da Associação será constituída por 05 (cinco) membros,
+A Diretoria Executiva do Tarrafa será constituída por 05 (cinco) membros,
 os quais ocuparão os cargos de: Presidente, Vice-Presidente, Secretário,
 Tesoureiro e Coringa. A Diretoria reunir-se-á, ordinariamente, uma vez por mês
 e, extraordinariamente, quando convocada pelo presidente ou pela maioria de
@@ -195,7 +195,7 @@ seus membros.
 
 ## ARTIGO 14 – COMPETE À DIRETORIA EXECUTIVA
 
-1. Dirigir a Associação, de acordo com o presente estatuto, e administrar o
+1. Dirigir o Tarrafa, de acordo com o presente estatuto, e administrar o
    patrimônio social.
 2. Cumprir e fazer cumprir o presente estatuto e as decisões da Assembléia
    Geral;
@@ -212,7 +212,7 @@ estar presentes, na reunião, a maioria absoluta de seus membros.
 
 ## ARTIGO 15 – COMPETE AO PRESIDENTE
 
-1. Representar a Associação ativa e passivamente, perante os órgãos públicos,
+1. Representar o Tarrafa ativa e passivamente, perante os órgãos públicos,
    judiciais e extrajudiciais, inclusive em juízo ou fora dele, podendo
    delegar poderes e constituir procuradores e advogados para o fim que julgar
    necessário;
@@ -237,8 +237,8 @@ faltas e impedimentos, assumindo o cargo em caso de vacância.
 
 1. Redigir e manter, em dia, transcrição das atas das Assembléias Gerais
    e das reuniões da Diretoria Executiva;
-2. Redigir a correspondência da Associação;
-3. Manter e ter sob sua guarda o arquivo da Associação;
+2. Redigir a correspondência do Tarrafa;
+3. Manter e ter sob sua guarda o arquivo do Tarrafa;
 4. Dirigir e supervisionar todo o trabalho da Secretaria.
 
 Parágrafo Único –
@@ -248,13 +248,13 @@ assumindo o cargo em caso de vacância.
 ## ARTIGO 17 – COMPETE AO TESOUREIRO
 
 1. Manter, em estabelecimentos bancários, juntamente com o presidente, os
-   valores da Associação, podendo aplicá-los, ouvida a Diretoria Executiva;
+   valores do Tarrafa, podendo aplicá-los, ouvida a Diretoria Executiva;
 2. Assinar, em conjunto com o Presidente, os cheques e demais documentos
    bancários e contábeis;
-3. Efetuar os pagamentos autorizados e recebimentos devidos à Associação;
+3. Efetuar os pagamentos autorizados e recebimentos devidos ao Tarrafa;
 4. Supervisionar o trabalho da tesouraria e da contabilidade;
 5. Apresentar ao Conselho Fiscal, os balancetes semestrais e o balanço anual;
-6. Elaborar, anualmente, a relação dos bens da Associação, apresentando-a,
+6. Elaborar, anualmente, a relação dos bens do Tarrafa, apresentando-a,
    quando solicitado, à Assembléia Geral.
 
 Parágrafo Único –
@@ -264,20 +264,20 @@ assumindo o cargo em caso de vacância.
 ## ARTIGO 18 – DO CONSELHO FISCAL
 O Conselho Fiscal, que será composto por ao menos três membros, e tem por
 objetivo, indelegável, fiscalizar e dar parecer sobre todos os atos da
-Diretoria Executiva da Associação, com as seguintes atribuições;
+Diretoria Executiva do Tarrafa, com as seguintes atribuições;
 
-1. Examinar os livros de escrituração da Associação;
+1. Examinar os livros de escrituração do Tarrafa;
 2. Opinar e dar pareceres sobre balanços e relatórios financeiro e contábil,
    submetendo-os a Assembléia Geral Ordinária ou Extraordinária;
 3. Requisitar ao 1º Tesoureiro, a qualquer tempo, a documentação comprobatória
-   das operações econômico-financeiras realizadas pela Associação;
+   das operações econômico-financeiras realizadas pelo Tarrafa;
 4. Acompanhar o trabalho de eventuais auditores externos independentes;
 5. Convocar Extraordinariamente a Assembléia Geral.
 
 Parágrafo único –
 O Conselho Fiscal reunir-se-á ordinariamente, uma vez por ano, em sua maioria
-absoluta, e extraordinariamente, sempre que convocado pelo Presidente da
-Associação, ou pela maioria simples de seus membros.
+absoluta, e extraordinariamente, sempre que convocado pelo Presidente do
+Tarrafa, ou pela maioria simples de seus membros.
 
 ## ARTIGO 19 – DO MANDATO
 As eleições para a Diretoria Executiva e Conselho Fiscal realizar-se-ão,
@@ -293,11 +293,11 @@ comprovado:
 2. Violação deste estatuto;
 3. Abandono do cargo, assim considerada a ausência não justificada
    em 03 (três) reuniões ordinárias consecutivas, sem expressa comunicação dos
-   motivos da ausência, à secretaria da Associação;
+   motivos da ausência, à secretaria do Tarrafa;
 4. Aceitação de cargo ou função incompatível com o exercício do cargo que
-   exerce na Associação;
+   exerce no Tarrafa;
 5. Conduta duvidosa, mediante a prática de atos incompatíveis com os preceitos
-   desta associação;
+   do Tarrafa;
 
 Parágrafo Primeiro –
 Definida a justa causa, o diretor ou conselheiro será comunicado, através de
@@ -321,7 +321,7 @@ preenchido pelo Coringa.
 
 Parágrafo Primeiro –
 O pedido de renúncia se dará por escrito, devendo ser protocolado na
-secretaria da Associação, a qual, no prazo máximo de 60 (sessenta) dias,
+secretaria do Tarrafa, a qual, no prazo máximo de 60 (sessenta) dias,
 contado da data do protocolo, o submeterá à deliberação da Assembléia Geral;
 
 Parágrafo Segundo –
@@ -341,28 +341,28 @@ reunião pela atual Diretoria Executiva.
 ## ARTIGO 22 – DA REMUNERAÇÃO
 Os membros da Diretoria Executiva e do Conselho Fiscal não perceberão nenhum
 tipo de remuneração, de qualquer espécie ou natureza, pelo exercício das
-atividades atribuídas à diretoria executiva e ao conselho fiscal da Associação.
+atividades atribuídas à diretoria executiva e ao conselho fiscal do Tarrafa.
 
 ## ARTIGO 23 – DA RESPONSABILIDADE DOS MEMBROS
 Os associados, mesmo que investidos na condição de membros da diretoria
 executiva e conselho fiscal, não respondem, nem mesmo subsidiariamente,
-pelos encargos e obrigações sociais da Associação.
+pelos encargos e obrigações sociais do Tarrafa.
 
 ## ARTIGO 24 – DO PATRIMÔNIO SOCIAL
-O patrimônio da Associação será constituído e mantido por:
+O patrimônio do Tarrafa será constituído e mantido por:
 
 1. Doações, legados, bens, direitos e valores adquiridos, e suas possíveis
    rendas e, ainda, pela arrecadação dos valores obtidos através da realização
    de festas e outros eventos, desde de que revertidos totalmente em beneficio
-   da associação;
+   do Tarrafa;
 2. Aluguéis de bens, imóveis e juros de títulos ou depósitos;
-3. Prestação de serviços dentro das prerrogativas sociais da associação.
+3. Prestação de serviços dentro das prerrogativas sociais do Tarrafa.
 
 ## ARTIGO 25 – DA VENDA
 Os bens móveis e imóveis poderão ser alienados, mediante prévia autorização de
 Assembléia Geral Extraordinária, especialmente convocada para este fim,
 devendo o valor apurado ser integralmente aplicado no desenvolvimento das
-atividades sociais ou no aumento do patrimônio social da Associação.
+atividades sociais ou no aumento do patrimônio social do Tarrafa.
 
 ## ARTIGO 26 – DA REFORMA ESTATUTÁRIA
 O presente estatuto social poderá ser reformado no tocante à administração, no
@@ -374,7 +374,7 @@ com a maioria absoluta dos associados e em segunda chamada, três horas
 após a primeira, com qualquer número de associados.
 
 ## ARTIGO 27 – DA DISSOLUÇÃO
-A Associação poderá ser dissolvida, a qualquer tempo, uma vez constatada a
+O Tarrafa poderá ser dissolvido, a qualquer tempo, uma vez constatada a
 impossibilidade de sua sobrevivência, face à impossibilidade da manutenção de
 seus objetivos sociais, ou desvirtuamento de suas finalidades estatutárias ou,
 ainda, por carência de recursos financeiros e humanos, mediante deliberação de
@@ -385,7 +385,7 @@ primeira chamada, com a totalidade dos associados e em segunda chamada, três
 horas após a primeira, com, com qualquer número de associados.
 
 Parágrafo único –
-Em caso de dissolução da Associação, liquidado o passivo, os bens
+Em caso de dissolução do Tarrafa, liquidado o passivo, os bens
 remanescentes, serão destinados para outra entidade assistencial congênere,
 com personalidade jurídica comprovada, sede e atividade preponderante neste
 país e devidamente registrada nos órgãos públicos competentes.
@@ -396,7 +396,7 @@ elaboradas as demonstrações financeiras da entidade, de conformidade com as
 disposições legais.
 
 ## ARTIGO 29 – DAS DISPOSIÇÕES GERAIS
-A Associação não distribui lucros, bonificações ou vantagens a qualquer
+O Tarrafa não distribui lucros, bonificações ou vantagens a qualquer
 título, para dirigentes, associados ou mantenedores, sob nenhuma forma ou
 pretexto, devendo suas rendas ser aplicadas, exclusivamente, no território
 nacional.
