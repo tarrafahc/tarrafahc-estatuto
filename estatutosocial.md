@@ -131,11 +131,8 @@ título for.
 
 ## ARTIGO 10º – DA APLICAÇÃO DAS PENAS
 
-As penas serão aplicadas pela Diretoria Executiva e poderão constituir-se em:
-
-1. Advertência por escrito inclusive por e-mail;
-2. Suspensão de 30 (trinta) dias até 3 (três) meses;
-3. Inclusão do e-mail do associado em listas de spam.
+As penas serão aplicadas pela Diretoria Executiva e estarão determinadas pelo
+Regimento Interno.
 
 ## ARTIGO 11 – DOS ORGÃOS DA INSTITUIÇÃO
 
