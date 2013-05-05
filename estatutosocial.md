@@ -201,8 +201,8 @@ seus membros.
 4. Elaborar o orçamento anual;
 5. Apresentar à Assembleia Geral, na reunião anual, o relatório de sua gestão
    e prestar contas referentes ao exercício anterior;
-6. Admitir pedido inscrição de associados;
-7. Acatar pedido de retirada voluntária de associados.
+6. Admitir pedidos de inscrição de associados;
+7. Acatar pedidos de retirada voluntária de associados.
 
 Parágrafo único –
 As decisões da diretoria deverão ser tomadas por maioria de votos, devendo
