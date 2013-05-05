@@ -173,7 +173,7 @@ e-mails do Tarrafa onde constará: local, dia, mês, ano, hora da primeira e
 segunda chamada, ordem do dia, e o nome de quem a convocou.
 
 Parágrafo Segundo –
-Considerar-se-à convocada a Assembleia Geral no momento em que 1/5 dos
+Considerar-se-a convocada a Assembleia Geral no momento em que 1/5 dos
 associados se manifestarem, em resposta à mensagem - doravante denominada
 'thread' - proposta por quem a convocou ciência da convocação e anuir ao
 debate acerca da matéria proposta para deliberação.
@@ -199,7 +199,7 @@ seus membros.
    Geral;
 3. Representar e defender os interesses de seus associados;
 4. Elaborar o orçamento anual;
-5. Apresentar a Assembleia Geral, na reunião anual, o relatório de sua gestão
+5. Apresentar à Assembleia Geral, na reunião anual, o relatório de sua gestão
    e prestar contas referentes ao exercício anterior;
 6. Admitir pedido inscrição de associados;
 7. Acatar pedido de retirada voluntária de associados.
