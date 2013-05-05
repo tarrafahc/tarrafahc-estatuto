@@ -311,7 +311,7 @@ Após o decurso do prazo descrito no parágrafo anterior, independentemente da
 apresentação de defesa, a representação será submetida à Assembleia Geral
 Extraordinária, devidamente convocada para esse fim, composta de associados
 contribuintes em dia com suas obrigações associativas, não podendo ela deliberar
-sem voto concorde de 2/3 (dois terços) dos presentes, sendo em primeira
+sem voto concorde de dois terços dos presentes, sendo em primeira
 chamada, com a maioria absoluta dos associados e em segunda chamada, uma hora
 após a primeira, com qualquer número de associados, onde será garantido o
 amplo direito de defesa.
@@ -376,7 +376,7 @@ O presente estatuto social poderá ser reformado no tocante à administração, 
 todo ou em parte, a qualquer tempo, por deliberação da Assembleia Geral
 Extraordinária, especialmente convocada para este fim, composta de associados
 em dia com suas obrigações associativas, não podendo ela deliberar sem voto
-concorde de 2/3 (dois terços) dos presentes, sendo em primeira chamada,
+concorde de dois terços dos presentes, sendo em primeira chamada,
 com a maioria absoluta dos associados e em segunda chamada, três horas
 após a primeira, com qualquer número de associados.
 
@@ -388,7 +388,7 @@ seus objetivos sociais, ou desvirtuamento de suas finalidades estatutárias ou,
 ainda, por carência de recursos financeiros e humanos, mediante deliberação de
 Assembleia Geral Extraordinária, especialmente convocada para este fim,
 composta de associados em dia com suas obrigações associativas, não podendo ela
-deliberar sem voto concorde de 2/3 (dois terços) dos presentes, sendo em
+deliberar sem voto concorde de dois terços dos presentes, sendo em
 primeira chamada, com a totalidade dos associados e em segunda chamada, três
 horas após a primeira, com, com qualquer número de associados.
 
