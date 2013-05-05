@@ -136,19 +136,19 @@ Regimento Interno.
 
 ## ARTIGO 11 – DOS ORGÃOS DA INSTITUIÇÃO
 
-São órgãos do Tarrafa:
-
-1. Assembleia;
-2. Diretoria Executiva;
-3. Conselho Fiscal.
-
-## ARTIGO 12 – DA ASSEMBLEIA GERAL
-
 A Assembleia Geral Deliberativa é o órgão máximo, soberano e excelso do
 Tarrafa, e será constituída pelos seus associados em pleno gozo de seus
 direitos.
 
-Reunir-se-á no ínicio do ano em data deliberada através da lista de e-mails,
+Parágrafo Único –
+São órgãos do Tarrafa, independentes e harmônicos entre si, a Diretoria
+Executiva e o Conselho Fiscal, estando eles diretamente subordinados à
+Assembleia Geral.
+
+## ARTIGO 12 – DA ASSEMBLEIA GERAL
+
+A Assembleia Geral reunir-se-á no ínicio do ano em data deliberada através
+da lista de e-mails,
 para tomar conhecimento das ações da Diretoria Executiva e,
 extraordinariamente, quando devidamente convocada. Constituirá em primeira
 convocação com a maioria absoluta dos associados e, em segunda convocação,
