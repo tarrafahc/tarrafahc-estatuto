@@ -228,7 +228,7 @@ estar presentes, na reunião, a maioria absoluta de seus membros.
    destituindo os respectivos responsáveis.
 
 Parágrafo Único –
-Compete ao Vice-Presidente, substituir legalmente o Presidente, em suas
+Compete ao Vice-Presidente substituir legalmente o Presidente, em suas
 faltas e impedimentos, assumindo o cargo em caso de vacância.
 
 ## ARTIGO 16 – COMPETE AO SECRETÁRIO
@@ -240,7 +240,7 @@ faltas e impedimentos, assumindo o cargo em caso de vacância.
 4. Dirigir e supervisionar todo o trabalho da Secretaria.
 
 Parágrafo Único –
-Compete ao Coringa, substituir o Secretário, em suas faltas e impedimentos,
+Compete ao Coringa substituir o Secretário, em suas faltas e impedimentos,
 assumindo o cargo em caso de vacância.
 
 ## ARTIGO 17 – COMPETE AO TESOUREIRO
@@ -256,12 +256,12 @@ assumindo o cargo em caso de vacância.
    quando solicitado, à Assembleia Geral.
 
 Parágrafo Único –
-Compete ao Coringa, substituir o Tesoureiro, em suas faltas e impedimentos,
+Compete ao Coringa substituir o Tesoureiro, em suas faltas e impedimentos,
 assumindo o cargo em caso de vacância.
 
 ## ARTIGO 18 – DO CONSELHO FISCAL
 
-O Conselho Fiscal, que será composto por ao menos três membros, e tem por
+O Conselho Fiscal, que será composto por ao menos três membros, tem por
 objetivo, indelegável, fiscalizar e dar parecer sobre todos os atos da
 Diretoria Executiva do Tarrafa, com as seguintes atribuições:
 
@@ -285,7 +285,7 @@ conjuntamente, anualmente podendo seus membros ser reeleitos.
 
 ## ARTIGO 20 – DA PERDA DO MANDATO
 
-A perda da qualidade de membro da Diretoria Executiva ou do Conselho Fiscal,
+A perda da qualidade de membro da Diretoria Executiva ou do Conselho Fiscal
 será determinada pela Assembleia Geral, sendo admissível somente havendo
 justa causa, assim reconhecida em procedimento disciplinar, quando ficar
 comprovado:
@@ -339,7 +339,7 @@ Os diretores e conselheiros eleitos, nestas condições, complementarão o
 mandato dos renunciantes.
 
 Parágrafo Terceiro –
-Em caso de renúncia do Diretor Coringa um novo Coringa será apontado em
+Em caso de renúncia do Diretor Coringa, um novo Coringa será apontado em
 reunião pela atual Diretoria Executiva.
 
 ## ARTIGO 22 – DA REMUNERAÇÃO
@@ -358,7 +358,7 @@ pelos encargos e obrigações sociais do Tarrafa.
 
 O patrimônio do Tarrafa será constituído e mantido por:
 
-1. Doações, legados, bens, direitos e valores adquiridos, e suas possíveis
+1. Doações, legados, bens, direitos e valores adquiridos e suas possíveis
    rendas e, ainda, pela arrecadação dos valores obtidos através da realização
    de eventos;
 2. Aluguéis de bens, imóveis e juros de títulos ou depósitos;
@@ -391,11 +391,11 @@ Assembleia Geral Extraordinária, especialmente convocada para este fim,
 composta de associados em dia com suas obrigações associativas, não podendo ela
 deliberar sem voto concorde de dois terços dos presentes, sendo em
 primeira chamada, com a totalidade dos associados e em segunda chamada, três
-horas após a primeira, com, com qualquer número de associados.
+horas após a primeira, com qualquer número de associados.
 
 Parágrafo único –
 Em caso de dissolução do Tarrafa, liquidado o passivo, os bens
-remanescentes, serão destinados para outra entidade assistencial congênere,
+remanescentes serão destinados para outra entidade assistencial congênere,
 com personalidade jurídica comprovada, sede e atividade preponderante neste
 país e devidamente registrada nos órgãos públicos competentes.
 
