@@ -153,7 +153,7 @@ para tomar conhecimento das ações da Diretoria Executiva e,
 extraordinariamente, quando devidamente convocada. Constituirá em primeira
 convocação com a maioria absoluta dos associados e, em segunda convocação,
 três horas após a primeira, com qualquer número, salvo nos casos previsto
-neste estatuto, tendo as seguintes prerrogativas.
+neste estatuto, tendo as seguintes prerrogativas:
 
 1. Fiscalizar os membros do Tarrafa, na consecução de seus objetivos;
 2. Eleger e destituir os administradores;
@@ -263,7 +263,7 @@ assumindo o cargo em caso de vacância.
 
 O Conselho Fiscal, que será composto por ao menos três membros, e tem por
 objetivo, indelegável, fiscalizar e dar parecer sobre todos os atos da
-Diretoria Executiva do Tarrafa, com as seguintes atribuições;
+Diretoria Executiva do Tarrafa, com as seguintes atribuições:
 
 1. Examinar os livros de escrituração do Tarrafa;
 2. Opinar e dar pareceres sobre balanços e relatórios financeiro e contábil,
