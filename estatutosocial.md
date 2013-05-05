@@ -120,7 +120,7 @@ associados presentes.
 Parágrafo Terceiro –
 Aplicada a pena de exclusão, caberá recurso, por parte do associado excluído,
 à Assembleia Geral, o qual deverá, no prazo de 30 (trinta) dias contados da
-decisão de sua exclusão, através de e-mail na lista do Ônibus Hacker,
+decisão de sua exclusão, através de e-mail na lista do Tarrafa,
 manifestar a intenção de ver a decisão ser objeto de deliberação, em última
 instância, por parte da Assembleia Geral.
 
