@@ -188,7 +188,7 @@ infração ao princípio da transparência sobre o qual se funda esta organizaç
 A Diretoria Executiva do Tarrafa será constituída por 05 (cinco) membros,
 os quais ocuparão os cargos de: Presidente, Vice-Presidente, Secretário,
 Tesoureiro e Coringa. A Diretoria reunir-se-á, ordinariamente, uma vez por mês
-e, extraordinariamente, quando convocada pelo presidente ou pela maioria de
+e, extraordinariamente, quando convocada pelo Presidente ou pela maioria de
 seus membros.
 
 ## ARTIGO 14 – COMPETE À DIRETORIA EXECUTIVA
@@ -216,7 +216,7 @@ estar presentes, na reunião, a maioria absoluta de seus membros.
    necessário;
 2. Convocar e presidir as reuniões da Diretoria Executiva;
 3. Presidir as Assembleias Ordinárias e Extraordinárias;
-4. Juntamente com o tesoureiro, abrir e manter contas bancárias, assinar
+4. Juntamente com o Tesoureiro, abrir e manter contas bancárias, assinar
    cheques e documentos bancários e contábeis;
 5. Organizar relatório contendo o balanço do exercício financeiro e os
    principais eventos do ano anterior, apresentando-o à Assembleia Geral
@@ -245,7 +245,7 @@ assumindo o cargo em caso de vacância.
 
 ## ARTIGO 17 – COMPETE AO TESOUREIRO
 
-1. Manter, em estabelecimentos bancários, juntamente com o presidente, os
+1. Manter, em estabelecimentos bancários, juntamente com o Presidente, os
    valores do Tarrafa, podendo aplicá-los, ouvida a Diretoria Executiva;
 2. Assinar, em conjunto com o Presidente, os cheques e demais documentos
    bancários e contábeis;
