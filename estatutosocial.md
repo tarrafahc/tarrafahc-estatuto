@@ -32,7 +32,7 @@ seguintes prerrogativas:
    circulação do conhecimento, e de formas de apropriação de tecnologia para
    o pleno exercício da cidadania.
 2. Planejar e realizar atividades educacionais que promovam os princípios da
-   interdisciplinaridade e a educação para a vida política, baseados na
+   interdisciplinaridade e a educação para a cidadania, baseados na
    apropriação de tecnologia.
 3. Promover debates, encontros e atividades culturais para disseminar os
    valores do compartilhamento de conhecimento, recursos e tecnologias livres.
