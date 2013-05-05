@@ -90,7 +90,7 @@ São direitos dos associados quites com suas obrigações associativas:
 ## ARTIGO 8º – DA RETIRADA DO ASSOCIADO
 
 É direito do associado retirar-se do quadro associativo, quando julgar necessário,
-manifestando seu pedido junto à Lista de e-mails do Tarrafa, desde que não
+manifestando seu pedido junto à lista de e-mails do Tarrafa ou em ocasião de reunião administrativa, desde que não
 esteja em débito com suas obrigações associativas.
 
 ## ARTIGO 9º – DA EXCLUSÃO DO ASSOCIADO
