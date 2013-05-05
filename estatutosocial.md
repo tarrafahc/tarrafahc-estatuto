@@ -49,7 +49,7 @@ Interno aprovado pela Assembléia Geral.
 
 ## ARTIGO 3º – DOS COMPROMISSOS DO TARRAFA
 
-o Tarrafa se dedicara às suas atividades através de seus administradores e
+O Tarrafa se dedicara às suas atividades através de seus administradores e
 associados, e adotará práticas de gestão administrativa, suficientes a coibir
 a obtenção, de forma individual ou coletiva, de benefícios ou vantagens,
 lícitas ou ilícitas, de qualquer forma, em decorrência da participação nos
