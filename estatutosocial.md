@@ -90,7 +90,7 @@ São direitos dos associados quites com suas obrigações associativas:
 ## ARTIGO 8º – DA RETIRADA DO ASSOCIADO
 
 É direito do associado retirar-se do quadro associativo, quando julgar necessário,
-manifestando seu pedido junto à Lista de emails do Tarrafa, desde que não
+manifestando seu pedido junto à Lista de e-mails do Tarrafa, desde que não
 esteja em débito com suas obrigações associativas.
 
 ## ARTIGO 9º – DA EXCLUSÃO DO ASSOCIADO
@@ -135,7 +135,7 @@ As penas serão aplicadas pela Diretoria Executiva e poderão constituir-se em:
 
 1. Advertência por escrito inclusive por e-mail;
 2. Suspensão de 30 (trinta) dias até 3 (três) meses;
-3. Inclusão do email do associado em listas de spam.
+3. Inclusão do e-mail do associado em listas de spam.
 
 ## ARTIGO 11 – DOS ORGÃOS DA INSTITUIÇÃO
 
@@ -151,7 +151,7 @@ A Assembléia Geral Deliberativa é o órgão máximo, soberano e excelso do
 Tarrafa, e será constituída pelos seus associados em pleno gozo de seus
 direitos.
 
-Reunir-se-á no ínicio do ano em data deliberada através da lista de emails,
+Reunir-se-á no ínicio do ano em data deliberada através da lista de e-mails,
 para tomar conhecimento das ações da Diretoria Executiva e,
 extraordinariamente, quando devidamente convocada. Constituirá em primeira
 convocação com a maioria absoluta dos associados e, em segunda convocação,
@@ -172,7 +172,7 @@ neste estatuto, tendo as seguintes prerrogativas.
 Parágrafo Primeiro –
 As assembléias gerais poderão ser ordinárias ou extraordinárias, e serão
 convocadas, por qualquer Associado, mediante mensagem publicada na lista de
-emails do Tarrafa onde constará: local, dia, mês, ano, hora da primeira e
+e-mails do Tarrafa onde constará: local, dia, mês, ano, hora da primeira e
 segunda chamada, ordem do dia, e o nome de quem a convocou.
 
 Parágrafo Segundo –
