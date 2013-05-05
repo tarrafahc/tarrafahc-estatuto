@@ -28,7 +28,7 @@ da legalidade, impessoalidade, moralidade, publicidade, transparência,
 economicidade, da eficiência e da instrumentalidade das formas, com as
 seguintes prerrogativas:
 
-1. Promover a cultura do hackerismo, da tecnologia livre, da defesa da livre
+1. Promover a cultura hacker, da tecnologia livre, da defesa da livre
    circulação do conhecimento, e de formas de apropriação de tecnologia para
    o pleno exercício da cidadania.
 2. Planejar e realizar atividades educacionais que promovam os princípios da
