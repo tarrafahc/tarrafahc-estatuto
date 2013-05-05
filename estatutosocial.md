@@ -45,7 +45,7 @@ seguintes prerrogativas:
 Parágrafo Único –
 Para cumprir suas finalidades sociais, o Tarrafa se
 regerá pelas disposições contidas neste estatuto e, ainda, por um Regimento
-Interno aprovado pela Assembléia Geral.
+Interno aprovado pela Assembleia Geral.
 
 ## ARTIGO 3º – DOS COMPROMISSOS DO TARRAFA
 
@@ -68,7 +68,7 @@ deverá participar da lista de e-mails do Tarrafa.
 ## ARTIGO 6º – DOS DEVERES DOS ASSOCIADOS
 
 1. Cumprir e fazer cumprir o presente estatuto;
-2. Respeitar e cumprir as decisões da Assembléia Geral;
+2. Respeitar e cumprir as decisões da Assembleia Geral;
 3. Zelar pelo bom nome do Tarrafa;
 4. Defender o patrimônio e os interesses do Tarrafa;
 5. Cumprir e fazer cumprir o regimento interno;
@@ -82,7 +82,7 @@ São direitos dos associados quites com suas obrigações associativas:
 
 1. Votar e ser votado para qualquer cargo da Diretoria Executiva ou do
    Conselho Fiscal, na forma prevista neste estatuto;
-2. Recorrer à Assembléia Geral contra qualquer ato da Diretoria ou do Conselho
+2. Recorrer à Assembleia Geral contra qualquer ato da Diretoria ou do Conselho
    Fiscal;
 3. Comparecer por ocasião das eleições;
 4. Votar por ocasião das eleições.
@@ -101,7 +101,7 @@ procedimento disciplinar, em que fique assegurado o direito da ampla defesa,
 quando ficar comprovada a ocorrência de:
 
 1. Violação do estatuto social;
-2. Atividades contrárias às decisões das assembléias gerais;
+2. Atividades contrárias às decisões das assembleias gerais;
 3. Conduta duvidosa, mediante a prática de atos incompatíveis com os preceitos
    do Tarrafa.
 
@@ -114,15 +114,15 @@ comunicação.
 Parágrafo Segundo –
 Após o decurso do prazo descrito no parágrafo anterior, independentemente da
 apresentação de defesa, a representação será decidida em reunião
-extraordinária da Assembléia Geral, por maioria simples de votos dos
+extraordinária da Assembleia Geral, por maioria simples de votos dos
 associados presentes.
 
 Parágrafo Terceiro –
 Aplicada a pena de exclusão, caberá recurso, por parte do associado excluído,
-à Assembléia Geral, o qual deverá, no prazo de 30 (trinta) dias contados da
+à Assembleia Geral, o qual deverá, no prazo de 30 (trinta) dias contados da
 decisão de sua exclusão, através de e-mail na lista do Ônibus Hacker,
 manifestar a intenção de ver a decisão ser objeto de deliberação, em última
-instância, por parte da Assembléia Geral.
+instância, por parte da Assembleia Geral.
 
 Parágrafo Quarto –
 Uma vez excluído, qualquer que seja o motivo, não terá o associado o direito
@@ -141,13 +141,13 @@ As penas serão aplicadas pela Diretoria Executiva e poderão constituir-se em:
 
 São órgãos do Tarrafa:
 
-1. Assembléia;
+1. Assembleia;
 2. Diretoria Executiva;
 3. Conselho Fiscal.
 
-## ARTIGO 12 – DA ASSEMBLÉIA GERAL
+## ARTIGO 12 – DA ASSEMBLEIA GERAL
 
-A Assembléia Geral Deliberativa é o órgão máximo, soberano e excelso do
+A Assembleia Geral Deliberativa é o órgão máximo, soberano e excelso do
 Tarrafa, e será constituída pelos seus associados em pleno gozo de seus
 direitos.
 
@@ -170,13 +170,13 @@ neste estatuto, tendo as seguintes prerrogativas.
    social, bem como sobre os casos omissos no presente estatuto.
 
 Parágrafo Primeiro –
-As assembléias gerais poderão ser ordinárias ou extraordinárias, e serão
+As assembleias gerais poderão ser ordinárias ou extraordinárias, e serão
 convocadas, por qualquer Associado, mediante mensagem publicada na lista de
 e-mails do Tarrafa onde constará: local, dia, mês, ano, hora da primeira e
 segunda chamada, ordem do dia, e o nome de quem a convocou.
 
 Parágrafo Segundo –
-Considerar-se-à convocada a Assembléia Geral no momento em que 1/5 dos
+Considerar-se-à convocada a Assembleia Geral no momento em que 1/5 dos
 associados se manifestarem, em resposta à mensagem - doravante denominada
 'thread' - proposta por quem a convocou ciência da convocação e anuir ao
 debate acerca da matéria proposta para deliberação.
@@ -198,11 +198,11 @@ seus membros.
 
 1. Dirigir o Tarrafa, de acordo com o presente estatuto, e administrar o
    patrimônio social;
-2. Cumprir e fazer cumprir o presente estatuto e as decisões da Assembléia
+2. Cumprir e fazer cumprir o presente estatuto e as decisões da Assembleia
    Geral;
 3. Representar e defender os interesses de seus associados;
 4. Elaborar o orçamento anual;
-5. Apresentar a Assembléia Geral, na reunião anual, o relatório de sua gestão
+5. Apresentar a Assembleia Geral, na reunião anual, o relatório de sua gestão
    e prestar contas referentes ao exercício anterior;
 6. Admitir pedido inscrição de associados;
 7. Acatar pedido de retirada voluntária de associados.
@@ -218,11 +218,11 @@ estar presentes, na reunião, a maioria absoluta de seus membros.
    delegar poderes e constituir procuradores e advogados para o fim que julgar
    necessário;
 2. Convocar e presidir as reuniões da Diretoria Executiva;
-3. Presidir as Assembléias Ordinárias e Extraordinárias;
+3. Presidir as Assembleias Ordinárias e Extraordinárias;
 4. Juntamente com o tesoureiro, abrir e manter contas bancárias, assinar
    cheques e documentos bancários e contábeis;
 5. Organizar relatório contendo o balanço do exercício financeiro e os
-   principais eventos do ano anterior, apresentando-o à Assembléia Geral
+   principais eventos do ano anterior, apresentando-o à Assembleia Geral
    Ordinária;
 6. Contratar funcionários ou auxiliares especializados, fixando seus
    vencimentos, podendo licenciá-los, suspendê-los ou demiti-los;
@@ -236,7 +236,7 @@ faltas e impedimentos, assumindo o cargo em caso de vacância.
 
 ## ARTIGO 16 – COMPETE AO SECRETÁRIO
 
-1. Redigir e manter, em dia, transcrição das atas das Assembléias Gerais
+1. Redigir e manter, em dia, transcrição das atas das Assembleias Gerais
    e das reuniões da Diretoria Executiva;
 2. Redigir a correspondência do Tarrafa;
 3. Manter e ter sob sua guarda o arquivo do Tarrafa;
@@ -256,7 +256,7 @@ assumindo o cargo em caso de vacância.
 4. Supervisionar o trabalho da tesouraria e da contabilidade;
 5. Apresentar ao Conselho Fiscal, os balancetes semestrais e o balanço anual;
 6. Elaborar, anualmente, a relação dos bens do Tarrafa, apresentando-a,
-   quando solicitado, à Assembléia Geral.
+   quando solicitado, à Assembleia Geral.
 
 Parágrafo Único –
 Compete ao Coringa, substituir o 1º Tesoureiro, em suas faltas e impedimentos,
@@ -270,11 +270,11 @@ Diretoria Executiva do Tarrafa, com as seguintes atribuições;
 
 1. Examinar os livros de escrituração do Tarrafa;
 2. Opinar e dar pareceres sobre balanços e relatórios financeiro e contábil,
-   submetendo-os a Assembléia Geral Ordinária ou Extraordinária;
+   submetendo-os a Assembleia Geral Ordinária ou Extraordinária;
 3. Requisitar ao 1º Tesoureiro, a qualquer tempo, a documentação comprobatória
    das operações econômico-financeiras realizadas pelo Tarrafa;
 4. Acompanhar o trabalho de eventuais auditores externos independentes;
-5. Convocar Extraordinariamente a Assembléia Geral.
+5. Convocar Extraordinariamente a Assembleia Geral.
 
 Parágrafo único –
 O Conselho Fiscal reunir-se-á ordinariamente, uma vez por ano, em sua maioria
@@ -289,7 +289,7 @@ conjuntamente, anualmente podendo seus membros ser reeleitos.
 ## ARTIGO 20 – DA PERDA DO MANDATO
 
 A perda da qualidade de membro da Diretoria Executiva ou do Conselho Fiscal,
-será determinada pela Assembléia Geral, sendo admissível somente havendo
+será determinada pela Assembleia Geral, sendo admissível somente havendo
 justa causa, assim reconhecida em procedimento disciplinar, quando ficar
 comprovado:
 
@@ -311,7 +311,7 @@ recebimento da comunicação.
 
 Parágrafo Segundo –
 Após o decurso do prazo descrito no parágrafo anterior, independentemente da
-apresentação de defesa, a representação será submetida à Assembléia Geral
+apresentação de defesa, a representação será submetida à Assembleia Geral
 Extraordinária, devidamente convocada para esse fim, composta de associados
 contribuintes em dia com suas obrigações associativas, não podendo ela deliberar
 sem voto concorde de 2/3 (dois terços) dos presentes, sendo em primeira
@@ -327,15 +327,15 @@ preenchido pelo Coringa.
 Parágrafo Primeiro –
 O pedido de renúncia se dará por escrito, devendo ser protocolado na
 secretaria do Tarrafa, a qual, no prazo máximo de 60 (sessenta) dias,
-contado da data do protocolo, o submeterá à deliberação da Assembléia Geral.
+contado da data do protocolo, o submeterá à deliberação da Assembleia Geral.
 
 Parágrafo Segundo –
 Ocorrendo renúncia coletiva da Diretoria e Conselho Fiscal, o Presidente
 renunciante, qualquer membro da Diretoria Executiva ou, em último caso,
-qualquer dos associados, poderá convocar a Assembléia Geral Extraordinária,
+qualquer dos associados, poderá convocar a Assembleia Geral Extraordinária,
 que elegerá uma comissão provisória composta por 05 (cinco) membros, que
 administrará a entidade e fará realizar novas eleições, no prazo máximo
-de 60 (sessenta) dias, contados da data de realização da referida assembléia.
+de 60 (sessenta) dias, contados da data de realização da referida assembleia.
 Os diretores e conselheiros eleitos, nestas condições, complementarão o
 mandato dos renunciantes.
 
@@ -369,14 +369,14 @@ O patrimônio do Tarrafa será constituído e mantido por:
 ## ARTIGO 25 – DA VENDA
 
 Os bens móveis e imóveis poderão ser alienados, mediante prévia autorização de
-Assembléia Geral Extraordinária, especialmente convocada para este fim,
+Assembleia Geral Extraordinária, especialmente convocada para este fim,
 devendo o valor apurado ser integralmente aplicado no desenvolvimento das
 atividades sociais ou no aumento do patrimônio social do Tarrafa.
 
 ## ARTIGO 26 – DA REFORMA ESTATUTÁRIA
 
 O presente estatuto social poderá ser reformado no tocante à administração, no
-todo ou em parte, a qualquer tempo, por deliberação da Assembléia Geral
+todo ou em parte, a qualquer tempo, por deliberação da Assembleia Geral
 Extraordinária, especialmente convocada para este fim, composta de associados
 em dia com suas obrigações associativas, não podendo ela deliberar sem voto
 concorde de 2/3 (dois terços) dos presentes, sendo em primeira chamada,
@@ -389,7 +389,7 @@ O Tarrafa poderá ser dissolvido, a qualquer tempo, uma vez constatada a
 impossibilidade de sua sobrevivência, face à impossibilidade da manutenção de
 seus objetivos sociais, ou desvirtuamento de suas finalidades estatutárias ou,
 ainda, por carência de recursos financeiros e humanos, mediante deliberação de
-Assembléia Geral Extraordinária, especialmente convocada para este fim,
+Assembleia Geral Extraordinária, especialmente convocada para este fim,
 composta de associados em dia com suas obrigações associativas, não podendo ela
 deliberar sem voto concorde de 2/3 (dois terços) dos presentes, sendo em
 primeira chamada, com a totalidade dos associados e em segunda chamada, três
@@ -416,7 +416,7 @@ nacional.
 
 ## ARTIGO 30 – DAS OMISSÕES
 
-Os casos omissos no presente Estatuto serão resolvidos pela Assembléia Geral.
+Os casos omissos no presente Estatuto serão resolvidos pela Assembleia Geral.
 
 Florianópolis, <dia> de <mês> de 2013
 
