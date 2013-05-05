@@ -37,7 +37,7 @@ seguintes prerrogativas:
 3. Promover debates, encontros e atividades culturais para disseminar os
    valores do compartilhamento de conhecimento, recursos e tecnologias livres;
 4. Representar seus associados judicial ou extrajudicialmente, na defesa dos
-   princípios, prerrogativas e finalidades do Tarrafa;
+   princípios, prerrogativas e finalidades do Tarrafa; e
 5. Celebrar atos formais de parceria, convênios, contratos, termos de ajuste
    e outros instrumentos legais com organismos e entidades nacionais,
    estrangeiras e internacionais, públicas e privadas.
@@ -73,7 +73,7 @@ deverá participar da lista de e-mails do Tarrafa.
 4. Defender o patrimônio e os interesses do Tarrafa;
 5. Cumprir e fazer cumprir o regimento interno;
 6. Exercer com dedicação, probidade, transparência e responsabilidade as
-   funções para as quais forem indicados ou estiverem investidos;
+   funções para as quais forem indicados ou estiverem investidos; e
 7. Honrar pontualmente com suas contribuições associativas.
 
 ## ARTIGO 7º – DOS DIREITOS DOS ASSOCIADOS
@@ -84,7 +84,7 @@ São direitos dos associados quites com suas obrigações associativas:
    Conselho Fiscal, na forma prevista neste estatuto;
 2. Recorrer à Assembleia Geral contra qualquer ato da Diretoria ou do Conselho
    Fiscal;
-3. Comparecer por ocasião das eleições;
+3. Comparecer por ocasião das eleições; e
 4. Votar por ocasião das eleições.
 
 ## ARTIGO 8º – DA RETIRADA DO ASSOCIADO
@@ -101,7 +101,7 @@ procedimento disciplinar, em que fique assegurado o direito da ampla defesa,
 quando ficar comprovada a ocorrência de:
 
 1. Violação do estatuto social;
-2. Atividades contrárias às decisões das assembleias gerais;
+2. Atividades contrárias às decisões das assembleias gerais; e
 3. Conduta duvidosa, mediante a prática de atos incompatíveis com os preceitos
    do Tarrafa.
 
@@ -162,7 +162,7 @@ neste estatuto, tendo as seguintes prerrogativas:
 5. Aprovar o regimento interno, que disciplinará os vários setores de
    atividades do Tarrafa;
 6. Alterar, no todo ou em parte, o presente estatuto social;
-7. Deliberar quanto à dissolução do Tarrafa;
+7. Deliberar quanto à dissolução do Tarrafa; e
 8. Decidir, em ultima instância, sobre todo e qualquer assunto de interesse
    social, bem como sobre os casos omissos no presente estatuto.
 
@@ -201,7 +201,7 @@ seus membros.
 4. Elaborar o orçamento anual;
 5. Apresentar à Assembleia Geral, na reunião anual, o relatório de sua gestão
    e prestar contas referentes ao exercício anterior;
-6. Admitir pedidos de inscrição de associados;
+6. Admitir pedidos de inscrição de associados; e
 7. Acatar pedidos de retirada voluntária de associados.
 
 Parágrafo único –
@@ -222,7 +222,7 @@ estar presentes, na reunião, a maioria absoluta de seus membros.
    principais eventos do ano anterior, apresentando-o à Assembleia Geral
    Ordinária;
 6. Contratar funcionários ou auxiliares especializados, fixando seus
-   vencimentos, podendo licenciá-los, suspendê-los ou demiti-los;
+   vencimentos, podendo licenciá-los, suspendê-los ou demiti-los; e
 7. Criar departamentos patrimoniais, culturais, sociais e outros
    que julgar necessários ao cumprimento das finalidades sociais, nomeando e
    destituindo os respectivos responsáveis.
@@ -236,7 +236,7 @@ faltas e impedimentos, assumindo o cargo em caso de vacância.
 1. Redigir e manter, em dia, transcrição das atas das Assembleias Gerais
    e das reuniões da Diretoria Executiva;
 2. Redigir a correspondência do Tarrafa;
-3. Manter e ter sob sua guarda o arquivo do Tarrafa;
+3. Manter e ter sob sua guarda o arquivo do Tarrafa; e
 4. Dirigir e supervisionar todo o trabalho da Secretaria.
 
 Parágrafo Único –
@@ -251,7 +251,7 @@ assumindo o cargo em caso de vacância.
    bancários e contábeis;
 3. Efetuar os pagamentos autorizados e recebimentos devidos ao Tarrafa;
 4. Supervisionar o trabalho da tesouraria e da contabilidade;
-5. Apresentar ao Conselho Fiscal, os balancetes semestrais e o balanço anual;
+5. Apresentar ao Conselho Fiscal, os balancetes semestrais e o balanço anual; e
 6. Elaborar, anualmente, a relação dos bens do Tarrafa, apresentando-a,
    quando solicitado, à Assembleia Geral.
 
@@ -270,7 +270,7 @@ Diretoria Executiva do Tarrafa, com as seguintes atribuições:
    submetendo-os a Assembleia Geral Ordinária ou Extraordinária;
 3. Requisitar ao Tesoureiro, a qualquer tempo, a documentação comprobatória
    das operações econômico-financeiras realizadas pelo Tarrafa;
-4. Acompanhar o trabalho de eventuais auditores externos independentes;
+4. Acompanhar o trabalho de eventuais auditores externos independentes; e
 5. Convocar Extraordinariamente a Assembleia Geral.
 
 Parágrafo único –
@@ -296,7 +296,7 @@ comprovado:
    em 03 (três) reuniões ordinárias consecutivas, sem expressa comunicação dos
    motivos da ausência, à secretaria do Tarrafa;
 4. Aceitação de cargo ou função incompatível com o exercício do cargo que
-   exerce no Tarrafa;
+   exerce no Tarrafa; e
 5. Conduta duvidosa, mediante a prática de atos incompatíveis com os preceitos
    do Tarrafa.
 
@@ -361,7 +361,7 @@ O patrimônio do Tarrafa será constituído e mantido por:
 1. Doações, legados, bens, direitos e valores adquiridos e suas possíveis
    rendas e, ainda, pela arrecadação dos valores obtidos através da realização
    de eventos;
-2. Aluguéis de bens, imóveis e juros de títulos ou depósitos;
+2. Aluguéis de bens, imóveis e juros de títulos ou depósitos; e
 3. Prestação de serviços dentro das prerrogativas sociais do Tarrafa.
 
 ## ARTIGO 25 – DA VENDA
