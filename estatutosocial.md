@@ -30,17 +30,17 @@ seguintes prerrogativas:
 
 1. Promover a cultura hacker, da tecnologia livre, da defesa da livre
    circulação do conhecimento, e de formas de apropriação de tecnologia para
-   o pleno exercício da cidadania.
+   o pleno exercício da cidadania;
 2. Planejar e realizar atividades educacionais que promovam os princípios da
    interdisciplinaridade e a educação para a cidadania, baseados na
-   apropriação de tecnologia.
+   apropriação de tecnologia;
 3. Promover debates, encontros e atividades culturais para disseminar os
-   valores do compartilhamento de conhecimento, recursos e tecnologias livres.
+   valores do compartilhamento de conhecimento, recursos e tecnologias livres;
 4. Representar seus associados judicial ou extrajudicialmente, na defesa dos
-   princípios, prerrogativas e finalidades do Tarrafa.
+   princípios, prerrogativas e finalidades do Tarrafa;
 5. Celebrar atos formais de parceria, convênios, contratos, termos de ajuste
    e outros instrumentos legais com organismos e entidades nacionais,
-   estrangeiras e internacionais, públicas e privadas;
+   estrangeiras e internacionais, públicas e privadas.
 
 Parágrafo Único –
 Para cumprir suas finalidades sociais, o Tarrafa se
@@ -55,7 +55,7 @@ a obtenção, de forma individual ou coletiva, de benefícios ou vantagens,
 lícitas ou ilícitas, de qualquer forma, em decorrência da participação nos
 processos decisórios, e suas rendas serão integralmente aplicadas em
 território nacional, na consecução e no desenvolvimento de seus objetivos
-sociais
+sociais.
 
 ## ARTIGO 4º – DOS ASSOCIADOS
 
@@ -71,8 +71,8 @@ de classe social, nacionalidade, sexo, raça, cor, orientação sexual, ou cren�
 religiosa e, para seu ingresso, o interessado deverá participar da lista do
 Ônibus Hacker e:
 
-1. Viajar 3 vezes com o Ônibus Hacker.
-2. Propor e realizar uma atividade compatível com os preceitos deste estatuto;
+1. Viajar 3 vezes com o Ônibus Hacker;
+2. Propor e realizar uma atividade compatível com os preceitos deste estatuto.
 
 ## ARTIGO 6º – DOS DEVERES DOS ASSOCIADOS
 
@@ -93,7 +93,7 @@ São direitos dos associados quites com suas obrigações sociais:
 2. Recorrer à Assembléia Geral contra qualquer ato da Diretoria ou do Conselho
    Fiscal;
 3. Comparecer por ocasião das eleições;
-4. Votar por ocasião das eleições;
+4. Votar por ocasião das eleições.
 
 ## ARTIGO 8º – DA RETIRADA DO ASSOCIADO
 
@@ -111,31 +111,31 @@ quando ficar comprovada a ocorrência de:
 1. Violação do estatuto social;
 2. Atividades contrárias às decisões das assembléias gerais;
 3. Conduta duvidosa, mediante a prática de atos incompatíveis com os preceitos
-   do Tarrafa;
+   do Tarrafa.
 
 Parágrafo Primeiro –
 Definida a justa causa, o associado será devidamente notificado dos fatos a
 ele imputados, através de notificação por e-mail, para que apresente sua
 defesa prévia no prazo de 20 (vinte) dias a contar do recebimento da
-comunicação;
+comunicação.
 
 Parágrafo Segundo –
 Após o decurso do prazo descrito no parágrafo anterior, independentemente da
 apresentação de defesa, a representação será decidida em reunião
 extraordinária da Assembléia Geral, por maioria simples de votos dos
-associados presentes;
+associados presentes.
 
 Parágrafo Terceiro –
 Aplicada a pena de exclusão, caberá recurso, por parte do associado excluído,
 à Assembléia Geral, o qual deverá, no prazo de 30 (trinta) dias contados da
 decisão de sua exclusão, através de e-mail na lista do Ônibus Hacker,
 manifestar a intenção de ver a decisão ser objeto de deliberação, em última
-instância, por parte da Assembléia Geral;
+instância, por parte da Assembléia Geral.
 
 Parágrafo Quarto –
 Uma vez excluído, qualquer que seja o motivo, não terá o associado o direito
 de pleitear indenização ou compensação de qualquer natureza, seja a que
-título for;
+título for.
 
 ## ARTIGO 10º – DA APLICAÇÃO DAS PENAS
 
@@ -143,13 +143,13 @@ As penas serão aplicadas pela Diretoria Executiva e poderão constituir-se em:
 
 1. Advertência por escrito inclusive por e-mail;
 2. Suspensão de 30 (trinta) dias até 3 (três) meses;
-3. Inclusão do email do associado em listas de spam;
+3. Inclusão do email do associado em listas de spam.
 
 ## ARTIGO 11 – DOS ORGÃOS DA INSTITUIÇÃO
 
 São órgãos do Tarrafa:
 
-1. Assembléia
+1. Assembléia;
 2. Diretoria Executiva;
 3. Conselho Fiscal.
 
@@ -181,7 +181,7 @@ Parágrafo Primeiro –
 As assembléias gerais poderão ser ordinárias ou extraordinárias, e serão
 convocadas, por qualquer Associado, mediante mensagem publicada na lista de
 emails do Tarrafa onde constará: local, dia, mês, ano, hora da primeira e
-segunda chamada, ordem do dia, e o nome de quem a convocou;
+segunda chamada, ordem do dia, e o nome de quem a convocou.
 
 Parágrafo Segundo –
 Considerar-se-à convocada a Assembléia Geral no momento em que 1/5 dos
@@ -205,7 +205,7 @@ seus membros.
 ## ARTIGO 14 – COMPETE À DIRETORIA EXECUTIVA
 
 1. Dirigir o Tarrafa, de acordo com o presente estatuto, e administrar o
-   patrimônio social.
+   patrimônio social;
 2. Cumprir e fazer cumprir o presente estatuto e as decisões da Assembléia
    Geral;
 3. Representar e defender os interesses de seus associados;
@@ -309,13 +309,13 @@ comprovado:
 4. Aceitação de cargo ou função incompatível com o exercício do cargo que
    exerce no Tarrafa;
 5. Conduta duvidosa, mediante a prática de atos incompatíveis com os preceitos
-   do Tarrafa;
+   do Tarrafa.
 
 Parágrafo Primeiro –
 Definida a justa causa, o diretor ou conselheiro será comunicado, através de
 notificação por escrito, dos fatos a ele imputados, para que apresente sua
 defesa prévia à Diretoria Executiva, no prazo de 20 (vinte) dias, contados do
-recebimento da comunicação;
+recebimento da comunicação.
 
 Parágrafo Segundo –
 Após o decurso do prazo descrito no parágrafo anterior, independentemente da
@@ -335,7 +335,7 @@ preenchido pelo Coringa.
 Parágrafo Primeiro –
 O pedido de renúncia se dará por escrito, devendo ser protocolado na
 secretaria do Tarrafa, a qual, no prazo máximo de 60 (sessenta) dias,
-contado da data do protocolo, o submeterá à deliberação da Assembléia Geral;
+contado da data do protocolo, o submeterá à deliberação da Assembléia Geral.
 
 Parágrafo Segundo –
 Ocorrendo renúncia coletiva da Diretoria e Conselho Fiscal, o Presidente
