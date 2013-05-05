@@ -73,7 +73,8 @@ deverá participar da lista de e-mails do Tarrafa.
 4. Defender o patrimônio e os interesses do Tarrafa;
 5. Cumprir e fazer cumprir o regimento interno;
 6. Exercer com dedicação, probidade, transparência e responsabilidade as
-funções para as quais forem indicados ou estiverem investidos.
+   funções para as quais forem indicados ou estiverem investidos;
+7. Honrar pontualmente com suas contribuições associativas.
 
 ## ARTIGO 7º – DOS DIREITOS DOS ASSOCIADOS
 
