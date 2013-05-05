@@ -10,8 +10,9 @@ Rua João Pio Duarte Silva, 602, bloco C apartamento 301 - Córrego Grande – C
 na cidade de
 Florianópolis do Estado de Santa Catarina,
 é uma associação de direito privado, constituída por tempo indeterminado,
-sem fins econômicos, de caráter organizacional, filantrópico, assistencial,
-promocional, recreativo e educacional, sem cunho partidário, com a finalidade
+sem fins econômicos ou lucrativos, de caráter social, cultural, educacional,
+técnico-científico, organizacional, filantrópico, assistencial, promocional,
+recreativo e genial, sem cunho religioso ou partidário, com a finalidade
 de atender a todos que a ela se dirigirem, independente de classe social,
 nacionalidade, sexo, orientação sexual, raça, cor ou crença religiosa.
 
