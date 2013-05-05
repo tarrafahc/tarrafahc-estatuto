@@ -48,6 +48,7 @@ regerá pelas disposições contidas neste estatuto e, ainda, por um Regimento
 Interno aprovado pela Assembléia Geral.
 
 ## ARTIGO 3º – DOS COMPROMISSOS DO TARRAFA
+
 o Tarrafa se dedicara às suas atividades através de seus administradores e
 associados, e adotará práticas de gestão administrativa, suficientes a coibir
 a obtenção, de forma individual ou coletiva, de benefícios ou vantagens,
@@ -57,11 +58,13 @@ território nacional, na consecução e no desenvolvimento de seus objetivos
 sociais
 
 ## ARTIGO 4º – DOS ASSOCIADOS
+
 Os associados serão os que ajudaram na fundação do Tarrafa, os que
 trabalham cotidianamente para o desempenho das atividades do Tarrafa e que
 são relacionados no Anexo 1 deste Estatuto.
 
 ## ARTIGO 5º – DA ADMISSÃO DO ASSOCIADO
+
 Poderão filiar-se somente pessoas maiores de 18 (dezoito) anos, ou maiores de
 16 (dezesseis) e menores de 18 (dezoito) legalmente autorizadas, independente
 de classe social, nacionalidade, sexo, raça, cor, orientação sexual, ou crença
@@ -82,6 +85,7 @@ religiosa e, para seu ingresso, o interessado deverá participar da lista do
 funções para as quais forem indicados ou estiverem investidos.
 
 ## ARTIGO 7º – DOS DIREITOS DOS ASSOCIADOS
+
 São direitos dos associados quites com suas obrigações sociais:
 
 1. Votar e ser votado para qualquer cargo da Diretoria Executiva ou do
@@ -92,11 +96,13 @@ São direitos dos associados quites com suas obrigações sociais:
 4. Votar por ocasião das eleições;
 
 ## ARTIGO 8º – DA RETIRADA DO ASSOCIADO
+
 É direito do associado retirar-se do quadro social, quando julgar necessário,
 manifestando seu pedido junto à Lista de emails do Tarrafa, desde que não
 esteja em débito com suas obrigações associativas.
 
 ## ARTIGO 9º – DA EXCLUSÃO DO ASSOCIADO
+
 A perda da qualidade de associado será determinada pela Assembleia Geral,
 sendo admissível somente havendo justa causa, assim reconhecida em
 procedimento disciplinar, em que fique assegurado o direito da ampla defesa,
@@ -132,6 +138,7 @@ de pleitear indenização ou compensação de qualquer natureza, seja a que
 título for;
 
 ## ARTIGO 10º – DA APLICAÇÃO DAS PENAS
+
 As penas serão aplicadas pela Diretoria Executiva e poderão constituir-se em:
 
 1. Advertência por escrito inclusive por e-mail;
@@ -139,6 +146,7 @@ As penas serão aplicadas pela Diretoria Executiva e poderão constituir-se em:
 3. Inclusão do email do associado em listas de spam;
 
 ## ARTIGO 11 – DOS ORGÃOS DA INSTITUIÇÃO
+
 São órgãos do Tarrafa:
 
 1. Assembléia
@@ -146,6 +154,7 @@ São órgãos do Tarrafa:
 3. Conselho Fiscal.
 
 ## ARTIGO 12 – DA ASSEMBLÉIA GERAL
+
 A Assembléia Geral Deliberativa é o órgão máximo, soberano e excelso do
 Tarrafa, e será constituída pelos seus associados em pleno gozo de seus
 direitos.
@@ -186,6 +195,7 @@ sendo vedada qualquer forma de deliberação por voto secreto, sob pena de
 infração ao princípio da transparência sobre o qual se funda esta organização.
 
 ## ARTIGO 13 – DA DIRETORIA EXECUTIVA
+
 A Diretoria Executiva do Tarrafa será constituída por 05 (cinco) membros,
 os quais ocuparão os cargos de: Presidente, Vice-Presidente, Secretário,
 Tesoureiro e Coringa. A Diretoria reunir-se-á, ordinariamente, uma vez por mês
@@ -261,6 +271,7 @@ Compete ao Coringa, substituir o 1º Tesoureiro, em suas faltas e impedimentos,
 assumindo o cargo em caso de vacância.
 
 ## ARTIGO 18 – DO CONSELHO FISCAL
+
 O Conselho Fiscal, que será composto por ao menos três membros, e tem por
 objetivo, indelegável, fiscalizar e dar parecer sobre todos os atos da
 Diretoria Executiva do Tarrafa, com as seguintes atribuições;
@@ -279,10 +290,12 @@ absoluta, e extraordinariamente, sempre que convocado pelo Presidente do
 Tarrafa, ou pela maioria simples de seus membros.
 
 ## ARTIGO 19 – DO MANDATO
+
 As eleições para a Diretoria Executiva e Conselho Fiscal realizar-se-ão,
 conjuntamente, anualmente podendo seus membros ser reeleitos.
 
 ## ARTIGO 20 – DA PERDA DO MANDATO
+
 A perda da qualidade de membro da Diretoria Executiva ou do Conselho Fiscal,
 será determinada pela Assembléia Geral, sendo admissível somente havendo
 justa causa, assim reconhecida em procedimento disciplinar, quando ficar
@@ -315,6 +328,7 @@ após a primeira, com qualquer número de associados, onde será garantido o
 amplo direito de defesa.
 
 ## ARTIGO 21 – DA RENÚNCIA
+
 Em caso renúncia de qualquer membro da Diretoria Executiva o cargo será
 preenchido pelo Coringa.
 
@@ -338,16 +352,19 @@ Em caso de renúncia do Diretor Coringa um novo Coringa será apontado em
 reunião pela atual Diretoria Executiva.
 
 ## ARTIGO 22 – DA REMUNERAÇÃO
+
 Os membros da Diretoria Executiva e do Conselho Fiscal não perceberão nenhum
 tipo de remuneração, de qualquer espécie ou natureza, pelo exercício das
 atividades atribuídas à diretoria executiva e ao conselho fiscal do Tarrafa.
 
 ## ARTIGO 23 – DA RESPONSABILIDADE DOS MEMBROS
+
 Os associados, mesmo que investidos na condição de membros da diretoria
 executiva e conselho fiscal, não respondem, nem mesmo subsidiariamente,
 pelos encargos e obrigações sociais do Tarrafa.
 
 ## ARTIGO 24 – DO PATRIMÔNIO SOCIAL
+
 O patrimônio do Tarrafa será constituído e mantido por:
 
 1. Doações, legados, bens, direitos e valores adquiridos, e suas possíveis
@@ -358,12 +375,14 @@ O patrimônio do Tarrafa será constituído e mantido por:
 3. Prestação de serviços dentro das prerrogativas sociais do Tarrafa.
 
 ## ARTIGO 25 – DA VENDA
+
 Os bens móveis e imóveis poderão ser alienados, mediante prévia autorização de
 Assembléia Geral Extraordinária, especialmente convocada para este fim,
 devendo o valor apurado ser integralmente aplicado no desenvolvimento das
 atividades sociais ou no aumento do patrimônio social do Tarrafa.
 
 ## ARTIGO 26 – DA REFORMA ESTATUTÁRIA
+
 O presente estatuto social poderá ser reformado no tocante à administração, no
 todo ou em parte, a qualquer tempo, por deliberação da Assembléia Geral
 Extraordinária, especialmente convocada para este fim, composta de associados
@@ -373,6 +392,7 @@ com a maioria absoluta dos associados e em segunda chamada, três horas
 após a primeira, com qualquer número de associados.
 
 ## ARTIGO 27 – DA DISSOLUÇÃO
+
 O Tarrafa poderá ser dissolvido, a qualquer tempo, uma vez constatada a
 impossibilidade de sua sobrevivência, face à impossibilidade da manutenção de
 seus objetivos sociais, ou desvirtuamento de suas finalidades estatutárias ou,
@@ -390,17 +410,20 @@ com personalidade jurídica comprovada, sede e atividade preponderante neste
 país e devidamente registrada nos órgãos públicos competentes.
 
 ## ARTIGO 28 – DO EXERCÍCIO SOCIAL
+
 O exercício social terminará em 31 de dezembro de cada ano, quando serão
 elaboradas as demonstrações financeiras da entidade, de conformidade com as
 disposições legais.
 
 ## ARTIGO 29 – DAS DISPOSIÇÕES GERAIS
+
 O Tarrafa não distribui lucros, bonificações ou vantagens a qualquer
 título, para dirigentes, associados ou mantenedores, sob nenhuma forma ou
 pretexto, devendo suas rendas ser aplicadas, exclusivamente, no território
 nacional.
 
 ## ARTIGO 30 – DAS OMISSÕES
+
 Os casos omissos no presente Estatuto serão resolvidos pela Assembléia Geral.
 
 Florianópolis, <dia> de <mês> de 2013
