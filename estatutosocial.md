@@ -78,7 +78,7 @@ deverá participar da lista de e-mails do Tarrafa.
 
 ## ARTIGO 7º – DOS DIREITOS DOS ASSOCIADOS
 
-São direitos dos associados quites com suas obrigações sociais:
+São direitos dos associados quites com suas obrigações associativas:
 
 1. Votar e ser votado para qualquer cargo da Diretoria Executiva ou do
    Conselho Fiscal, na forma prevista neste estatuto;
@@ -89,7 +89,7 @@ São direitos dos associados quites com suas obrigações sociais:
 
 ## ARTIGO 8º – DA RETIRADA DO ASSOCIADO
 
-É direito do associado retirar-se do quadro social, quando julgar necessário,
+É direito do associado retirar-se do quadro associativo, quando julgar necessário,
 manifestando seu pedido junto à Lista de emails do Tarrafa, desde que não
 esteja em débito com suas obrigações associativas.
 
@@ -313,7 +313,7 @@ Parágrafo Segundo –
 Após o decurso do prazo descrito no parágrafo anterior, independentemente da
 apresentação de defesa, a representação será submetida à Assembléia Geral
 Extraordinária, devidamente convocada para esse fim, composta de associados
-contribuintes em dia com suas obrigações sociais, não podendo ela deliberar
+contribuintes em dia com suas obrigações associativas, não podendo ela deliberar
 sem voto concorde de 2/3 (dois terços) dos presentes, sendo em primeira
 chamada, com a maioria absoluta dos associados e em segunda chamada, uma hora
 após a primeira, com qualquer número de associados, onde será garantido o
@@ -378,7 +378,7 @@ atividades sociais ou no aumento do patrimônio social do Tarrafa.
 O presente estatuto social poderá ser reformado no tocante à administração, no
 todo ou em parte, a qualquer tempo, por deliberação da Assembléia Geral
 Extraordinária, especialmente convocada para este fim, composta de associados
-em dia com suas obrigações sociais, não podendo ela deliberar sem voto
+em dia com suas obrigações associativas, não podendo ela deliberar sem voto
 concorde de 2/3 (dois terços) dos presentes, sendo em primeira chamada,
 com a maioria absoluta dos associados e em segunda chamada, três horas
 após a primeira, com qualquer número de associados.
@@ -390,7 +390,7 @@ impossibilidade de sua sobrevivência, face à impossibilidade da manutenção d
 seus objetivos sociais, ou desvirtuamento de suas finalidades estatutárias ou,
 ainda, por carência de recursos financeiros e humanos, mediante deliberação de
 Assembléia Geral Extraordinária, especialmente convocada para este fim,
-composta de associados em dia com suas obrigações sociais, não podendo ela
+composta de associados em dia com suas obrigações associativas, não podendo ela
 deliberar sem voto concorde de 2/3 (dois terços) dos presentes, sendo em
 primeira chamada, com a totalidade dos associados e em segunda chamada, três
 horas após a primeira, com, com qualquer número de associados.
