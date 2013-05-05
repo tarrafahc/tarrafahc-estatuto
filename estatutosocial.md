@@ -43,9 +43,8 @@ seguintes prerrogativas:
    estrangeiras e internacionais, públicas e privadas;
 
 Parágrafo Único –
-Para cumprir suas finalidades sociais, o Tarrafa se organizará em tantas
-unidades quantas se fizerem necessárias, em todo o território nacional e se
-regerão pelas disposições contidas neste estatuto e, ainda, por um Regimento
+Para cumprir suas finalidades sociais, o Tarrafa se
+regerá pelas disposições contidas neste estatuto e, ainda, por um Regimento
 Interno aprovado pela Assembléia Geral.
 
 ## ARTIGO 3º – DOS COMPROMISSOS DO TARRAFA
