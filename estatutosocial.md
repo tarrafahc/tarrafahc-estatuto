@@ -223,7 +223,7 @@ estar presentes, na reunião, a maioria absoluta de seus membros.
    Ordinária;
 6. Contratar funcionários ou auxiliares especializados, fixando seus
    vencimentos, podendo licenciá-los, suspendê-los ou demiti-los;
-7. Criar departamentos patrimoniais, culturais, sociais, de saúde e outros
+7. Criar departamentos patrimoniais, culturais, sociais e outros
    que julgar necessários ao cumprimento das finalidades sociais, nomeando e
    destituindo os respectivos responsáveis.
 
