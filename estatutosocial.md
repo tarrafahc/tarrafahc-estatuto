@@ -21,7 +21,7 @@ Rua João Pio Duarte Silva, 602, bloco C apartamento 301 – Córrego Grande –
 na cidade de
 Florianópolis do Estado de Santa Catarina.
 
-## ARTIGO 2º – SÃO PRERROGATIVAS DA ASSOCIAÇÃO:
+## ARTIGO 2º – DAS PRERROGATIVAS
 
 No desenvolvimento de suas atividades, a Associação observará os princípios
 da legalidade, impessoalidade, moralidade, publicidade, transparência,
@@ -48,7 +48,7 @@ unidades quantas se fizerem necessárias, em todo o território nacional e se
 regerão pelas disposições contidas neste estatuto e, ainda, por um Regimento
 Interno aprovado pela Assembléia Geral.
 
-## ARTIGO 3º – DOS COMPROMISSOS DA ASSOCIAÇÃO
+## ARTIGO 3º – DOS COMPROMISSOS DO TARRAFA
 A Associação se dedicara às suas atividades através de seus administradores e
 associados, e adotará práticas de gestão administrativa, suficientes a coibir
 a obtenção, de forma individual ou coletiva, de benefícios ou vantagens,
@@ -72,7 +72,7 @@ religiosa e, para seu ingresso, o interessado deverá participar da lista do
 1. Viajar 3 vezes com o Ônibus Hacker.
 2. Propor e realizar uma atividade compatível com os preceitos deste estatuto;
 
-## ARTIGO 6º – SÃO DEVERES DOS ASSOCIADOS
+## ARTIGO 6º – DOS DEVERES DOS ASSOCIADOS
 
 1. Cumprir e fazer cumprir o presente estatuto;
 2. Respeitar e cumprir as decisões da Assembléia Geral;
@@ -82,7 +82,7 @@ religiosa e, para seu ingresso, o interessado deverá participar da lista do
 6. Exercer com dedicação, probidade, transparência e responsabilidade as
 funções para as quais forem indicados ou estiverem investidos.
 
-## ARTIGO 7º – SÃO DIREITOS DOS ASSOCIADOS
+## ARTIGO 7º – DOS DIREITOS DOS ASSOCIADOS
 São direitos dos associados quites com suas obrigações sociais:
 
 1. Votar e ser votado para qualquer cargo da Diretoria Executiva ou do
