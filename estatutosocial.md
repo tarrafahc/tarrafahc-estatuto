@@ -360,8 +360,7 @@ O patrimônio do Tarrafa será constituído e mantido por:
 
 1. Doações, legados, bens, direitos e valores adquiridos, e suas possíveis
    rendas e, ainda, pela arrecadação dos valores obtidos através da realização
-   de festas e outros eventos, desde de que revertidos totalmente em beneficio
-   do Tarrafa;
+   de eventos;
 2. Aluguéis de bens, imóveis e juros de títulos ou depósitos;
 3. Prestação de serviços dentro das prerrogativas sociais do Tarrafa.
 
