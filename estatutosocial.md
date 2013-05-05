@@ -4,17 +4,22 @@
 
 A Associação do Tarrafa Hacker Clube, neste estatuto designada, simplesmente,
 como Tarrafa,
-fundada em data de <dia> de <mês> de 2013,
-com sede e foro nesta cidade, na
-Rua João Pio Duarte Silva, 602, bloco C apartamento 301 - Córrego Grande – CEP 88037-000
-na cidade de
-Florianópolis do Estado de Santa Catarina,
-é uma associação de direito privado, constituída por tempo indeterminado,
+é uma associação de direito privado,
 sem fins econômicos ou lucrativos, de caráter social, cultural, educacional,
 técnico-científico, organizacional, filantrópico, assistencial, promocional,
 recreativo e genial, sem cunho religioso ou partidário, com a finalidade
 de atender a todos que a ela se dirigirem, independente de classe social,
 nacionalidade, sexo, orientação sexual, raça, cor ou crença religiosa.
+
+Parágrafo Primeiro –
+O Tarrafa foi fundado no dia <dia> de <mês> de 2013
+e tem prazo de duração indeterminado.
+
+Parágrafo Segundo –
+O Tarrafa tem sede e foro na
+Rua João Pio Duarte Silva, 602, bloco C apartamento 301 – Córrego Grande – CEP 88037-000,
+na cidade de
+Florianópolis do Estado de Santa Catarina.
 
 ## ARTIGO 2º – SÃO PRERROGATIVAS DA ASSOCIAÇÃO:
 
