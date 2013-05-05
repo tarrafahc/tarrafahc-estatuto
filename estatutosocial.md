@@ -95,7 +95,7 @@ esteja em débito com suas obrigações associativas.
 
 ## ARTIGO 9º – DA EXCLUSÃO DO ASSOCIADO
 
-A perda da qualidade de associado será determinada pela Assembleia Geral,
+A perda da qualidade de associado será determinada pela Assembleia Geral,
 sendo admissível somente havendo justa causa, assim reconhecida em
 procedimento disciplinar, em que fique assegurado o direito da ampla defesa,
 quando ficar comprovada a ocorrência de:
@@ -118,7 +118,7 @@ extraordinária da Assembleia Geral, por maioria simples de votos dos
 associados presentes.
 
 Parágrafo Terceiro –
-Aplicada a pena de exclusão, caberá recurso, por parte do associado excluído,
+Aplicada a pena de exclusão, caberá recurso, por parte do associado excluído,
 à Assembleia Geral, o qual deverá, no prazo de 30 (trinta) dias contados da
 decisão de sua exclusão, através de e-mail na lista do Ônibus Hacker,
 manifestar a intenção de ver a decisão ser objeto de deliberação, em última
@@ -147,8 +147,8 @@ São órgãos do Tarrafa:
 
 ## ARTIGO 12 – DA ASSEMBLEIA GERAL
 
-A Assembleia Geral Deliberativa é o órgão máximo, soberano e excelso do
-Tarrafa, e será constituída pelos seus associados em pleno gozo de seus
+A Assembleia Geral Deliberativa é o órgão máximo, soberano e excelso do
+Tarrafa, e será constituída pelos seus associados em pleno gozo de seus
 direitos.
 
 Reunir-se-á no ínicio do ano em data deliberada através da lista de e-mails,
@@ -166,13 +166,13 @@ neste estatuto, tendo as seguintes prerrogativas.
    atividades do Tarrafa;
 6. Alterar, no todo ou em parte, o presente estatuto social;
 7. Deliberar quanto à dissolução do Tarrafa;
-8. Decidir, em ultima instância, sobre todo e qualquer assunto de interesse
+8. Decidir, em ultima instância, sobre todo e qualquer assunto de interesse
    social, bem como sobre os casos omissos no presente estatuto.
 
 Parágrafo Primeiro –
 As assembleias gerais poderão ser ordinárias ou extraordinárias, e serão
 convocadas, por qualquer Associado, mediante mensagem publicada na lista de
-e-mails do Tarrafa onde constará: local, dia, mês, ano, hora da primeira e
+e-mails do Tarrafa onde constará: local, dia, mês, ano, hora da primeira e
 segunda chamada, ordem do dia, e o nome de quem a convocou.
 
 Parágrafo Segundo –
@@ -182,9 +182,9 @@ associados se manifestarem, em resposta à mensagem - doravante denominada
 debate acerca da matéria proposta para deliberação.
 
 Parágrafo Terceiro –
-Toda e qualquer deliberação do Tarrafa será tomada por escrutínio público,
+Toda e qualquer deliberação do Tarrafa será tomada por escrutínio público,
 sendo vedada qualquer forma de deliberação por voto secreto, sob pena de
-infração ao princípio da transparência sobre o qual se funda esta organização.
+infração ao princípio da transparência sobre o qual se funda esta organização.
 
 ## ARTIGO 13 – DA DIRETORIA EXECUTIVA
 
@@ -434,4 +434,4 @@ ________________________________________
 
             Nome:
 
-            OAB: nº xxxxxx/SC
+            OAB: nº xxxxxx/SC
