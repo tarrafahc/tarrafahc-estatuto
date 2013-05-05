@@ -59,20 +59,11 @@ sociais.
 
 ## ARTIGO 4º – DOS ASSOCIADOS
 
-Os associados serão os que ajudaram na fundação do Tarrafa, os que
-trabalham cotidianamente para o desempenho das atividades do Tarrafa e que
-são relacionados no Anexo 1 deste Estatuto.
-
-## ARTIGO 5º – DA ADMISSÃO DO ASSOCIADO
-
-Poderão filiar-se somente pessoas maiores de 18 (dezoito) anos, ou maiores de
-16 (dezesseis) e menores de 18 (dezoito) legalmente autorizadas, independente
-de classe social, nacionalidade, sexo, raça, cor, orientação sexual, ou crença
-religiosa e, para seu ingresso, o interessado deverá participar da lista do
-Ônibus Hacker e:
-
-1. Viajar 3 vezes com o Ônibus Hacker;
-2. Propor e realizar uma atividade compatível com os preceitos deste estatuto.
+Poderão filiar-se pessoas com idade maior ou igual a 18 (dezoito) anos,
+ou maior ou igual a 16 (dezesseis) e menores de 18 (dezoito) anos legalmente
+autorizadas, independente de classe social, nacionalidade, sexo, raça, cor,
+orientação sexual, ou crença religiosa e, para seu ingresso, o interessado
+deverá participar da lista de e-mails do Tarrafa.
 
 ## ARTIGO 6º – DOS DEVERES DOS ASSOCIADOS
 
