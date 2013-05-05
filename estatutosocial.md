@@ -256,7 +256,7 @@ assumindo o cargo em caso de vacância.
    quando solicitado, à Assembleia Geral.
 
 Parágrafo Único –
-Compete ao Coringa, substituir o 1º Tesoureiro, em suas faltas e impedimentos,
+Compete ao Coringa, substituir o Tesoureiro, em suas faltas e impedimentos,
 assumindo o cargo em caso de vacância.
 
 ## ARTIGO 18 – DO CONSELHO FISCAL
@@ -268,7 +268,7 @@ Diretoria Executiva do Tarrafa, com as seguintes atribuições:
 1. Examinar os livros de escrituração do Tarrafa;
 2. Opinar e dar pareceres sobre balanços e relatórios financeiro e contábil,
    submetendo-os a Assembleia Geral Ordinária ou Extraordinária;
-3. Requisitar ao 1º Tesoureiro, a qualquer tempo, a documentação comprobatória
+3. Requisitar ao Tesoureiro, a qualquer tempo, a documentação comprobatória
    das operações econômico-financeiras realizadas pelo Tarrafa;
 4. Acompanhar o trabalho de eventuais auditores externos independentes;
 5. Convocar Extraordinariamente a Assembleia Geral.
