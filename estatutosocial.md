@@ -318,8 +318,10 @@ amplo direito de defesa.
 
 ## ARTIGO 21 – DA RENÚNCIA
 
-Em caso renúncia de qualquer membro da Diretoria Executiva o cargo será
-preenchido pelo Coringa.
+Em caso da renúncia do Presidente, o cargo será preenchido pelo
+Vice-Presidente.
+Em caso de renúncia de qualquer outro membro da Diretoria Executiva,
+o cargo será preenchido pelo Coringa.
 
 Parágrafo Primeiro –
 O pedido de renúncia se dará por escrito, devendo ser protocolado na
