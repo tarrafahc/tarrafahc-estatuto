@@ -1,5 +1,13 @@
  
 /* start css.sty */
+.ecbx-1000{ font-weight: bold;}
+.ecbx-1000{ font-weight: bold;}
+.ecbx-1000{ font-weight: bold;}
+.ecbx-1000{ font-weight: bold;}
+.ecbx-0900{font-size:90%; font-weight: bold;}
+.ecbx-0900{ font-weight: bold;}
+.ecbx-0900{ font-weight: bold;}
+.ecbx-0900{ font-weight: bold;}
 .ecrm-0900{font-size:90%;}
 p.noindent { text-indent: 0em }
 td p.noindent { text-indent: 0em; margin-top:0em; }
@@ -110,7 +118,6 @@ div.author{white-space: nowrap;}
 h1.partHead{text-align: center}
 .abstract p {margin-left:5%; margin-right:5%;}
 div.abstract {width:100%;}
-dd.enumerate {margin-left: 2em;}
-dt.enumerate {float:left; clear:left; margin-right:0.5em; margin-left:0.5em; text-align:right; }
+dt.enumerate-enumitem{float:left; clear:left; margin-left:1em; margin-right:1em;}
 /* end css.sty */
 
