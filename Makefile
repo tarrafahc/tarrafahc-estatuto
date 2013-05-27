@@ -1,4 +1,4 @@
-NOME=estatutosocial ata_fundacao
+NOME=estatutosocial ata_fundacao requerimento
 
 all: $(addsuffix .pdf,${NOME}) estatutosocial.html
 
