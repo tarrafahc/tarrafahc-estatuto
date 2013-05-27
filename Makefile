@@ -1,6 +1,6 @@
-NOME=estatutosocial
+NOME=estatutosocial ata_fundacao
 
-all: ${NOME}.pdf ${NOME}.html
+all: $(addsuffix .pdf,${NOME}) estatutosocial.html
 
 %.pdf: %.tex
 	pdflatex -halt-on-error $^
@@ -11,10 +11,10 @@ all: ${NOME}.pdf ${NOME}.html
 
 clean::
 	rm -f *~
-	rm -f ${NOME}.4ct ${NOME}.4tc
-	rm -f ${NOME}.dvi ${NOME}.idv
-	rm -f ${NOME}.tmp ${NOME}.lg ${NOME}.xref
-	rm -f ${NOME}.html ${NOME}.css
-	rm -f ${NOME}.aux ${NOME}.log
-	rm -f ${NOME}.pdf
+	rm -f $(addsuffix .4ct,${NOME}) $(addsuffix .4tc,${NOME})
+	rm -f $(addsuffix .dvi,${NOME}) $(addsuffix .idv,${NOME})
+	rm -f $(addsuffix .tmp,${NOME}) $(addsuffix .lg,${NOME}) $(addsuffix .xref,${NOME})
+	rm -f $(addsuffix .html,${NOME}) $(addsuffix .css,${NOME})
+	rm -f $(addsuffix .aux,${NOME}) $(addsuffix .log,${NOME})
+	rm -f $(addsuffix .pdf,${NOME})
 	rm -f texput.log
